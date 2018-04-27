@@ -2,4 +2,5 @@
 title: Tags
 date: 2018-04-25 16:35:38
 type: "tags"
+comments: false
 ---
