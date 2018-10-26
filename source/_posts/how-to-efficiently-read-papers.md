@@ -4,7 +4,7 @@ date: 2018-04-26 10:45:42
 tags: [Academia]
 ---
 
-Months ago, when I was doing binary research supervised by my colleague Dean, he told me some tips about how to read papers. 
+Months ago, when I was doing binary research supervised by my colleague, he told me some tips about how to read papers.
 
 <!-- more -->
 
